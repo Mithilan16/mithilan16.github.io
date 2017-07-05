@@ -3380,7 +3380,7 @@
 		display: -webkit-flex;
 		display: -ms-flex;
 		display: flex;
-		background-color: #5e42a6;
+		background-color: #ffffff;
 		cursor: default;
 		padding: 1.75em 2em;
 	}
@@ -3887,8 +3887,9 @@
 		background-image: url("../../images/workspace.jpg");
 		background-position: top right;
 		background-repeat: no-repeat;
-		background-size: 100% 100%;
+		background-size: 65% 100%;
 	}
+
 
 		#intro p {
 			font-size: 1.25em;
